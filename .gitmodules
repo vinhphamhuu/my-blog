@@ -4,3 +4,6 @@
 [submodule "themes/Chic2"]
 	path = themes/Chic2
 	url = https://github.com/Siricee/hexo-theme-Chic.git/
+[submodule "themes/Chic"]
+	path = themes/Chic
+	url = https://github.com/Siricee/hexo-theme-Chic.git/
