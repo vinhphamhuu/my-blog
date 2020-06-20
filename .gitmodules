@@ -1,9 +1,1 @@
-[submodule "hexo-theme-Chic"]
-	path = hexo-theme-Chic
-	url = https://github.com/Siricee/hexo-theme-Chic.git/
-[submodule "themes/Chic2"]
-	path = themes/Chic2
-	url = https://github.com/Siricee/hexo-theme-Chic.git/
-[submodule "themes/Chic"]
-	path = themes/Chic
-	url = https://github.com/Siricee/hexo-theme-Chic.git/
+
